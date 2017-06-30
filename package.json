@@ -1,0 +1,35 @@
+{
+  "name": "ak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "bcryptjs": "*",
+    "bluebird": "^3.5.0",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "cors": "*",
+    "crypto-js": "^3.1.9-1",
+    "express": "*",
+    "express-session": "*",
+    "jsonwebtoken": "*",
+    "method-override": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "nodemailer": "^4.0.1",
+    "nodemon": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-google-oauth20": "*",
+    "passport-jwt": "*",
+    "passport-oauth2": "*",
+    "promise": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
